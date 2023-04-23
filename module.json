@@ -54,22 +54,22 @@
             {
                 "id": "combat-enhancements",
                 "type": "module",
-                "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/raw/latest/module.json"
+                "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/-/raw/master/module.json"
             },
             {
                 "id": "foundry-combat-focus",
                 "type": "module",
-                "manifest": "https://github.com/Oromis/foundry-combat-focus/releases/latest/download/module.json"
+                "manifest": "https://raw.githubusercontent.com/Oromis/foundry-combat-focus/main/module.json"
             },
             {
                 "id": "compendium-folders",
                 "type": "module",
-                "manifest": "https://github.com/earlSt1/vtt-compendium-folders/releases/latest/download/module.json"
+                "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/10x-update/module.json"
             },
             {
                 "id": "dice-so-nice",
                 "type": "module",
-                "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/combat-enhancements/raw/latest/module.json"
+                "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
             },
             {
                 "id": "dice-stats",
@@ -79,12 +79,12 @@
             {
                 "id": "dice-calculator",
                 "type": "module",
-                "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/raw/latest/module.json"
+                "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/-/raw/master/module.json"
             },
             {
                 "id": "drag-ruler",
                 "type": "module",
-                "manifest": "https://github.com/manuelVo/foundryvtt-drag-ruler/releases/latest/download/module.json"
+                "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/develop/module.json"
             },
             {
                 "id": "enhanced-terrain-layer",
@@ -99,12 +99,12 @@
             {
                 "id": "hide-gm-rolls",
                 "type": "module",
-                "manifest": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/releases/latest/download/module.json"
+                "manifest": "https://raw.githubusercontent.com/sPOiDar/fvtt-module-hide-gm-rolls/master/module.json"
             },
             {
                 "id": "perfect-vision",
                 "type": "module",
-                "manifest": "https://github.com/dev7355608/perfect-vision/releases/latest/download/module.json"
+                "manifest": "https://raw.githubusercontent.com/dev7355608/perfect-vision/main/module.json"
             },
             {
                 "id": "polyglot",
@@ -114,7 +114,7 @@
             {
                 "id": "terrain-ruler",
                 "type": "module",
-                "manifest": "https://github.com/manuelVo/foundryvtt-terrain-ruler/releases/latest/download/module.json"
+                "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-terrain-ruler/develop/module.json"
             },
             {
                 "id": "vtta-tokenizer",
