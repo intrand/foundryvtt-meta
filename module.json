@@ -1,0 +1,133 @@
+{
+    "id": "intrand-meta",
+    "title": "intrand meta",
+    "description": "A meta module which depends upon modules I want installed in every FoundryVTT world.",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "authors": [
+        {
+            "name": "intrand"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "relationships": {
+        "requires": [
+            {
+                "id": "monks-bloodsplats",
+                "type": "module",
+                "manifest": "https://github.com/ironmonk88/monks-bloodsplats/releases/latest/download/module.json"
+            },
+            {
+                "id": "monks-combat-details",
+                "type": "module",
+                "manifest": "https://github.com/ironmonk88/monks-combat-details/releases/latest/download/module.json"
+            },
+            {
+                "id": "monks-hotbar-expansion",
+                "type": "module",
+                "manifest": "https://github.com/ironmonk88/hotbar-expansion/releases/latest/download/module.json"
+            },
+            {
+                "id": "monks-little-details",
+                "type": "module",
+                "manifest": "https://github.com/ironmonk88/monks-little-details/releases/latest/download/module.json"
+            },
+            {
+                "id": "monks-wall-enhancement",
+                "type": "module",
+                "manifest": "https://github.com/ironmonk88/monks-wall-enhancement/releases/latest/download/module.json"
+            },
+            {
+                "id": "combatbooster",
+                "type": "module",
+                "manifest": "https://github.com/theripper93/Combat-Booster/releases/latest/download/module.json"
+            },
+            {
+                "id": "combat-enhancements",
+                "type": "module",
+                "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/raw/latest/module.json"
+            },
+            {
+                "id": "foundry-combat-focus",
+                "type": "module",
+                "manifest": "https://github.com/Oromis/foundry-combat-focus/releases/latest/download/module.json"
+            },
+            {
+                "id": "compendium-folders",
+                "type": "module",
+                "manifest": "https://github.com/earlSt1/vtt-compendium-folders/releases/latest/download/module.json"
+            },
+            {
+                "id": "dice-so-nice",
+                "type": "module",
+                "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/combat-enhancements/raw/latest/module.json"
+            },
+            {
+                "id": "dice-stats",
+                "type": "module",
+                "manifest": "https://github.com/jacobwojoski/dice-stats/releases/latest/download/module.json"
+            },
+            {
+                "id": "dice-calculator",
+                "type": "module",
+                "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/raw/latest/module.json"
+            },
+            {
+                "id": "drag-ruler",
+                "type": "module",
+                "manifest": "https://github.com/manuelVo/foundryvtt-drag-ruler/releases/latest/download/module.json"
+            },
+            {
+                "id": "enhanced-terrain-layer",
+                "type": "module",
+                "manifest": "https://github.com/ironmonk88/enhanced-terrain-layer/releases/latest/download/module.json"
+            },
+            {
+                "id": "healthEstimate",
+                "type": "module",
+                "manifest": "https://github.com/mclemente/healthEstimate/releases/latest/download/module.json"
+            },
+            {
+                "id": "hide-gm-rolls",
+                "type": "module",
+                "manifest": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/releases/latest/download/module.json"
+            },
+            {
+                "id": "perfect-vision",
+                "type": "module",
+                "manifest": "https://github.com/dev7355608/perfect-vision/releases/latest/download/module.json"
+            },
+            {
+                "id": "polyglot",
+                "type": "module",
+                "manifest": "https://github.com/mclemente/fvtt-module-polyglot/releases/latest/download/module.json"
+            },
+            {
+                "id": "terrain-ruler",
+                "type": "module",
+                "manifest": "https://github.com/manuelVo/foundryvtt-terrain-ruler/releases/latest/download/module.json"
+            },
+            {
+                "id": "vtta-tokenizer",
+                "type": "module",
+                "manifest": "https://github.com/MrPrimate/tokenizer/releases/latest/download/module.json"
+            }
+        ]
+    },
+    "url": "https://github.com/intrand/foundryvtt-meta",
+    "download": "https://github.com/intrand/foundryvtt-meta/archive/refs/heads/main.zip",
+    "manifest": "https://raw.githubusercontent.com/intrand/foundryvtt-meta/main/module.json",
+    "readme": "https://github.com/intrand/foundryvtt-meta/blob/main/README.md",
+    "changelog": "https://github.com/intrand/foundryvtt-meta/releases",
+    "bugs": "https://github.com/intrand/foundryvtt-meta/issues",
+    "allowBugReporter": false
+}
