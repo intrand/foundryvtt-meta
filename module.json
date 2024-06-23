@@ -2,11 +2,11 @@
   "id": "intrand-meta",
   "title": "intrand meta",
   "description": "A meta module which depends upon modules I want installed in every FoundryVTT world.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11",
-    "maximum": "11"
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
   },
   "authors": [
     {
@@ -27,11 +27,6 @@
         "manifest": "https://github.com/theripper93/Combat-Booster/releases/latest/download/module.json"
       },
       {
-        "id": "combat-enhancements",
-        "type": "module",
-        "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/raw/master/module.json"
-      },
-      {
         "id": "dice-calculator",
         "type": "module",
         "manifest": "https://github.com/mclemente/fvtt-dice-tray/releases/latest/download/module.json"
@@ -42,14 +37,9 @@
         "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
       },
       {
-        "id": "dice-stats",
+        "id": "elevationruler",
         "type": "module",
-        "manifest": "https://github.com/jacobwojoski/dice-stats/releases/latest/download/module.json"
-      },
-      {
-        "id": "drag-ruler",
-        "type": "module",
-        "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
+        "manifest": "https://github.com/caewok/fvtt-elevation-ruler/releases/latest/download/module.json"
       },
       {
         "id": "forien-copy-environment",
@@ -65,11 +55,6 @@
         "id": "healthEstimate",
         "type": "module",
         "manifest": "https://github.com/mclemente/healthEstimate/releases/latest/download/module.json"
-      },
-      {
-        "id": "hide-gm-rolls",
-        "type": "module",
-        "manifest": "https://github.com/sPOiDar/fvtt-module-hide-gm-rolls/raw/master/module.json"
       },
       {
         "id": "JB2A_DnD5e",
@@ -102,14 +87,14 @@
         "manifest": "https://github.com/ironmonk88/monks-little-details/releases/latest/download/module.json"
       },
       {
-        "id": "monks-player-settings",
+        "id": "pf2e-dailies",
         "type": "module",
-        "manifest": "https://github.com/ironmonk88/monks-player-settings/releases/latest/download/module.json"
+        "manifest": "https://raw.githubusercontent.com/reonZ/pf2e-dailies/master/module.json"
       },
       {
-        "id": "pf2e-dragruler",
+        "id": "pf2e-elevation-ruler",
         "type": "module",
-        "manifest": "https://github.com/reyzor1991/pf2edragruler/releases/latest/download/module.json"
+        "manifest": "https://github.com/7H3LaughingMan/pf2e-elevation-ruler/releases/latest/download/module.json"
       },
       {
         "id": "pf2e-exploration-effects",
@@ -130,16 +115,6 @@
         "id": "pf2e-modifiers-matter",
         "type": "module",
         "manifest": "https://github.com/shemetz/pf2e-modifiers-matter/releases/latest/download/module.json"
-      },
-      {
-        "id": "pf2e-staves",
-        "type": "module",
-        "manifest": "https://github.com/jessev14/pf2e-staves/releases/latest/download/module.json"
-      },
-      {
-        "id": "pf2e-target-damage",
-        "type": "module",
-        "manifest": "https://github.com/MrVauxs/PF2e-Target-Damage/releases/latest/download/module.json"
       },
       {
         "id": "pf2e-tokens-bestiaries",
